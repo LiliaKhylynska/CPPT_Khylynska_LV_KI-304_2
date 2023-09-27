@@ -2,15 +2,14 @@ import java.io.*;
 import java.util.*;
 
 /**
- * Клас Lab1 реалізує приклад програми до лабораторної роботи №1
+ * The Lab1KhylynskaKI304 class implements a sample program for laboratory work #1.
  */
 public class Lab1KhylynskaKI304 {
-    /**
-     * Статичний метод main є точкою входу в програму
-     * 
-     * @param args
-     * @throws FileNotFoundException
-     * 
+	/**
+     * The main static method is the entry point of the program.
+     *
+     * @param args command-line arguments (not used in this case)
+     * @throws FileNotFoundException an exception that may occur if the file is not found
      */
     public static void main(String[] args) throws FileNotFoundException {
         int nRows;
