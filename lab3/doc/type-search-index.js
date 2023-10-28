@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Khylynska.Lab3","l":"CookingTile.Cooking"},{"p":"KI304.Khylynska.Lab3","l":"CookingTile"},{"p":"KI304.Khylynska.Lab3","l":"ElectricCookingTile"},{"p":"KI304.Khylynska.Lab3","l":"ElectricCookingTileDemo"}];updateSearchResults();
