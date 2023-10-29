@@ -5,7 +5,6 @@ import java.util.*;
 
 /**
  * The <code>EquationsApp</code> class implements the driver for the Equations class.
- * @author EOM Stuff
  * @version 1.0
  */
 public class EquationsApp {
