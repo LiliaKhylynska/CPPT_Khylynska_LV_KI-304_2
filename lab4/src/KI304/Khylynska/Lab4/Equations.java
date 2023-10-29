@@ -1,12 +1,11 @@
 package KI304.Khylynska.Lab4;
 /**
- * The <code>Equations</code> class implements a method for calculating the expression ((2 / tg(x)) / x).
- * @author EOM Stuff
+ * The <code>Equations</code> class implements a method for calculating the expression (ctg(8x) / x).
  * @version 1.0
  */
-class Equations {
+public class Equations {
     /**
-     * Method calculates the ((2 / tg(x)) / x) expression.
+     * Method calculates the (ctg(8x) / x) expression.
      * @param x Angle in degrees
      * @throws CalcException
      */

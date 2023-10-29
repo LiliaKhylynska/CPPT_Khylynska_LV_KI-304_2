@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Khylynska.Lab4","l":"EquationsApp"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Khylynska.Lab4","l":"CalcException"},{"p":"KI304.Khylynska.Lab4","l":"Equations"},{"p":"KI304.Khylynska.Lab4","l":"EquationsApp"}];updateSearchResults();
