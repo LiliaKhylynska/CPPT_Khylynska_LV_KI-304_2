@@ -6,7 +6,6 @@ public class Equations {
     /**
      * Method calculates the (ctg(x) / x) expression.
      * @param x Angle in degrees
-     * @throws CalcException
      */
     public double calculate(int x) throws CalcException {
         double y, angle, rad;
