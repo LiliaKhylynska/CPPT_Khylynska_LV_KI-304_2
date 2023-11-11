@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Khylynska.Lab6","l":"Animal"},{"p":"KI304.Khylynska.Lab6","l":"Barn"},{"p":"KI304.Khylynska.Lab6","l":"BarnApp"},{"p":"KI304.Khylynska.Lab6","l":"Cow"}];updateSearchResults();
