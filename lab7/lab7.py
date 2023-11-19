@@ -14,19 +14,18 @@ def main():
             print("Помилка: Символ-заповнювач має містити лише один символ.")
             return
 
-        # Створюємо квадратну матрицю, заповнену пробілами
-        arr = [[' ' for j in range(n_rows)] for i in range(n_rows)]
 
         # Обчислюємо половину рядків матриці
         half_n_rows = n_rows // 2 if n_rows % 2 == 0 else n_rows // 2 + 1
+
+        # Створюємо зубчастий список
+        arr = [[' ' for j in range(n_rows - i)] for i in range(half_n_rows)]
 
         # Заповнюємо верхню половину матриці відповідно до вказаних умов
         for i in range(half_n_rows):
             for j in range(n_rows - i):
                 if i < j + 1:
                     arr[i][j] = filler
-                else:
-                    arr[i][j] = ' '
 
         # Виводимо матрицю на екран
         print_matrix(arr)
