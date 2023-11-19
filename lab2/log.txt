@@ -1,6 +1,1 @@
-Start cooking lunch.
-Cooking Pasta on the tile.
-Pasta is ready.
-Cleaning the tile.
-Tile is clean.
-Finish cooking lunch.
+

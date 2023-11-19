@@ -1,5 +1,0 @@
-Cooking Pasta on the electric cooking tile.
-Pasta is ready.
-Cleaning the electric cooking tile.
-Electric tile is clean.
-Finish cooking dinner.

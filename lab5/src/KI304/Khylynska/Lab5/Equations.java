@@ -1,10 +1,10 @@
 package KI304.Khylynska.Lab5;
 /**
- * The <code>Equations</code> class implements a method for calculating the expression (ctg(x) / x).
+ * The <code>Equations</code> class implements a method for calculating the expression (ctg(8x) / x).
  */
 public class Equations {
     /**
-     * Method calculates the (ctg(x) / x) expression.
+     * Method calculates the (ctg(8x) / x) expression.
      * @param x Angle in degrees
      */
     public double calculate(int x) throws CalcException {
